@@ -1,7 +1,6 @@
 # 🎭 Meme Generator
 
-A fun React app built with **Vite** that lets you generate random memes and add custom top/bottom text.  
-This project was created as a hands-on way to practice React concepts like state, props, event handling, and forms.
+Meme Generator is an interactive React app built with Vite that allows users to generate random memes, customize top and bottom text, and create shareable memes instantly. Fully responsive with a modern, vibrant UI, perfect for fun and practice with React concepts like state, props, and event handling.
 
 ---
 
