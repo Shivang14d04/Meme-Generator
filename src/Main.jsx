@@ -3,8 +3,8 @@ import { useState, useEffect } from "react"
 
 export default function Main() {
     const [meme, setMeme] = useState({
-        topText: "One does not simply",
-        bottomText: "Walk into Mordor",
+        topText: "what's up",
+        bottomText: "Mate",
         imageUrl: "http://i.imgflip.com/1bij.jpg"
     })
     const [allMemes, setAllMemes] = useState([])
