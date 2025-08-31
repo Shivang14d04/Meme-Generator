@@ -21,7 +21,7 @@ This project was created as a hands-on way to practice React concepts like state
 
 ## 📸 Screenshot
 ### Home Page
-![Meme Generator Screenshot](./screenshot/memeGeneratorPreview.png)
+![Meme Generator Screenshot](./screenshots/memeGeneratorPreview.png)
 
 *(Make sure you add a screenshot inside a `screenshots/` folder in your project root, and update the path if needed.)*
 
